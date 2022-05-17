@@ -1,2 +1,2 @@
-Code cagnotte partie front-end
+Code cagnotte partie
 Code cagnotte partie Back-end
